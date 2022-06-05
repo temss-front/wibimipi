@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wibimipi
 - 👀 I’m interested in frontend developing
-- 🌱 I’m currently learning TypeScript and Python
+- 🌱 I’m currently learning TypeScript, NodeJS and Python
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: tg - @wibimipi, twitter - @wibi_my
 
